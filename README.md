@@ -4,6 +4,6 @@ The so-called "Water-Filling" algorithm is used for performing the idea behind t
 
 References:
 
-  - [1] J. H. Lee and W. Choi, “Unified codebook design for vector channel quantization in mimo broadcast channels,” IEEE Transactions on SignalProcessing, vol. 63, no. 10, pp. 2509–2519, 2015. 
+  - [1] T. Yoo and A. Goldsmith, "On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming," in IEEE Journal on Selected Areas in Communications, vol. 24, no. 3, pp. 528-541, March 2006, doi: 10.1109/JSAC.2005.862421.
 
-  - [2] T. Yoo and A. Goldsmith, “On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming,” IEEE Journal on Selected Areas in Communications, vol. 24, no. 3, pp. 528–541, 2006.
+  - [2] J. Wang, D. J. Love and M. D. Zoltowski, "User Selection With Zero-Forcing Beamforming Achieves the Asymptotically Optimal Sum Rate," in IEEE Transactions on Signal Processing, vol. 56, no. 8, pp. 3713-3726, Aug. 2008, doi: 10.1109/TSP.2008.919096.
