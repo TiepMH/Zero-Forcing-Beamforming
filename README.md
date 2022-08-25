@@ -1,4 +1,4 @@
-# Zero-Forcing Beamforming (ZFBF) technique is a popular one, which is normally used in wireless systems (including WiFi systems)
+# Zero-Forcing Beamforming (ZFBF) technique is a popular one, which is normally used in wireless communication systems (including WiFi systems)
 
 The so-called "Water-Filling" algorithm is used for performing the idea behind the ZFBF technique.
 
